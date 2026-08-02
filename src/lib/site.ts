@@ -6,7 +6,7 @@
 export const site = {
   name: "Neura",
   ticker: "NEURA",
-  domain: "https://neura-ai.vercel.app", // TODO: replace with production domain
+  domain: "https://neura-coral-two.vercel.app",
   tagline: "Your AI Intelligence Layer for Crypto.",
   description:
     "Neura is an AI-powered crypto intelligence platform on Robinhood Chain. Autonomous AI agents analyze markets, discover opportunities and simplify the crypto economy — for every investor.",
